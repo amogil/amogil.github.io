@@ -15,7 +15,7 @@ import BackToTop from "@components/BackToTop.astro";
     <div class="flex justify-between items-center">
       <div class="flex flex-wrap items-center gap-3">
         <div>
-          &copy; 2024 {`|`} {SITE.NAME}
+          &copy; {new Date().getFullYear()} {`|`} {SITE.NAME}
         </div>
         <Link href="https://buymeacoffee.com/amogil" external underline={false}>
           buy me a coffee
