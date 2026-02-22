@@ -1,9 +1,10 @@
 ---
 title: "Facemash"
-description: "A lightweight head-to-head voting game for “Who’s hotter?” matchups."
-date: "2026-02-22"
+description: "Nostalgic head-to-head voting game using AI-generated portraits."
+date: "2026-01-18"
 demoURL: "https://www.facemash.online/"
 ---
 
-A playful, minimalist voting game where visitors choose between two photos at a time.
-Built as a quick experiment around ranking, choice UX, and engagement loops.
+Inspired by *The Social Network*, this project recreates the classic head-to-head ranking game,
+but compares AI-generated portraits instead of real people. The ranking is built the same way
+as in the movie, with a simple voting loop and an evolving leaderboard.
