@@ -9,8 +9,12 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        sans: ["Inter", ...defaultTheme.fontFamily.sans],
-        serif: ["Lora", ...defaultTheme.fontFamily.serif],
+        sans: ["Sora", ...defaultTheme.fontFamily.sans],
+      },
+      colors: {
+        lightModeBg: "#E6E6E6",
+        darkModeBg: "#1A1A1A",
+        accentColor: "#A682FF",
       },
     },
   },

@@ -14,3 +14,8 @@ Personal site built with Astro.
 ## Deploy
 
 GitHub Pages via Actions (see `.github/workflows/deploy.yml`).
+
+## Credits
+
+Style inspired by `ekmas/minimal`:
+https://github.com/ekmas/minimal
