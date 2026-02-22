@@ -1,8 +1,9 @@
 ---
 title: "Reqlix"
-description: "MCP server for structured requirements management via markdown."
-date: "2026-02-22"
+description: "MCP server that turns markdown requirements into a structured API for LLMs."
+date: "2025-11-27"
 repoURL: "https://github.com/amogil/reqlix"
 ---
 
-An MCP (Model Context Protocol) server that gives LLM assistants structured access to project requirements stored in markdown, keeping docs and code in sync.
+Reqlix makes requirements a first-class, queryable source of truth for LLM-assisted development.
+It structures plain markdown into categories, chapters, and indexed requirements, then exposes them via MCP so assistants can read, update, and keep docs and code in sync.
