@@ -23,4 +23,4 @@ My setup has three parts.
 
 ![Agentic development pipeline diagram](./scheme.png)
 
-The developer is involved at two points: approving spec and plan changes, and accepting the result. These are human gates. The orchestrator cannot pass through them on its own. Everything else is automated so the developer has two points of control.
+The developer is involved at two quality gates: approving spec and plan changes, and accepting the result. The orchestrator cannot pass through them on its own. Everything else is automated so the developer has two points of control.
