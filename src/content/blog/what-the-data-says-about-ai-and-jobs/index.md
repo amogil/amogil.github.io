@@ -22,7 +22,7 @@ What does the data say?
 
 1. Only 15% of workers use AI daily [1].
 2. Only 19.8% of companies used AI in at least one business function [2].
-3. Even in the technology sector, only 42% of workers use AI daily; in most other sectors, the figure ranges from 9% to 15% [1].
+3. Even in tech, only 42% of workers use AI daily; in most other sectors, the figure ranges from 9% to 15% [1].
 
 AI is already being used, but it has yet to become an everyday tool for most companies and workers.
 
