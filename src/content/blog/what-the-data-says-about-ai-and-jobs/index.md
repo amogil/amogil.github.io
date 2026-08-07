@@ -8,11 +8,11 @@ date: "2026-08-06"
 
 There is a lot of noise around AI:
 
-> "Anthropic/OpenAI just killed \<a multibillion-dollar company\>" (c) a LinkedIn post
+> Anthropic/OpenAI just killed \<a multibillion-dollar company\> (c) a LinkedIn post
 
-> "\<profession\> will no longer be needed after ~~2024~~/~~2025~~/2026/2027" (c) CEO of an AI company
+> \<profession\> will no longer be needed after ~~2024~~/~~2025~~/2026/2027 (c) CEO of an AI company
 
-> "We ~~have already entered~~ will soon enter the singularity" (c) CEO of another AI company
+> We ~~have already entered~~ will soon enter the singularity (c) CEO of another AI company
 
 It feels like technology and markets are changing radically, and everyone around you is already living in the future. Meanwhile, you are still digging a hole with a stick and hanging a bronze pot over a fire. That is where FOMO and anxiety come from.
 
@@ -44,8 +44,8 @@ The data does not show an overall decline in employment due to AI.
 
 AI is changing work, but not as quickly or as widely as LinkedIn feeds and the media make it seem. You can take your time learning the tools you need without trying to keep up with every prediction.
 
-[1] https://www.gallup.com/699797/indicator-artificial-intelligence.aspx
-[2] https://www.census.gov/library/stories/2026/05/ai-use-businesses.html
-[3] https://www.census.gov/library/working-papers/2026/adrm/CES-WP-26-25.html
-[4] https://budgetlab.yale.edu/research/what-we-do-and-dont-know-about-how-ai-affecting-labor-market
+[1] https://www.gallup.com/699797/indicator-artificial-intelligence.aspx<br>
+[2] https://www.census.gov/library/stories/2026/05/ai-use-businesses.html<br>
+[3] https://www.census.gov/library/working-papers/2026/adrm/CES-WP-26-25.html<br>
+[4] https://budgetlab.yale.edu/research/what-we-do-and-dont-know-about-how-ai-affecting-labor-market<br>
 [5] https://www.nber.org/papers/w33777
