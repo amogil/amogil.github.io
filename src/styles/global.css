@@ -41,6 +41,10 @@ article {
   @apply prose-headings:text-black prose-headings:dark:text-white;
 }
 
+article .quote-attribution {
+  @apply text-right;
+}
+
 @layer utilities {
   article a {
     @apply text-accentColor underline underline-offset-2;

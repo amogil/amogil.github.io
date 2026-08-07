@@ -10,15 +10,15 @@ There is a lot of noise around AI:
 
 > Anthropic/OpenAI just killed \<a multibillion-dollar company\>
 
-(c) a LinkedIn post
+<p class="quote-attribution">(c) a LinkedIn post</p>
 
 > \<profession\> will no longer be needed after ~~2024~~/~~2025~~/2026/2027
 
-(c) CEO of an AI company
+<p class="quote-attribution">(c) CEO of an AI company</p>
 
 > We ~~have already entered~~ will soon enter the singularity
 
-(c) CEO of another AI company
+<p class="quote-attribution">(c) CEO of another AI company</p>
 
 It feels like technology and markets are changing radically, and everyone around you is already living in the future. Meanwhile, you are still digging a hole with a stick and hanging a bronze pot over a fire. That is where FOMO and anxiety come from.
 
